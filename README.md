@@ -1,1 +1,2 @@
 # Naukri_Scrapper
+Scrape all job postings by area from the links given in the csv file. For every link, loop through all the job postings by page, collecting all the information for a given posting. Create an output CSV file with job title, company, experience, salary, location, description, tags associated, function area, posting date, scraping date.Cluster the companies using only their description. Identify and justify the optimal number of clusters
